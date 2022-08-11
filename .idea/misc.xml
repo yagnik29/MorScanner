@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/OfficeWork/Test/MorScanner/app/src/main/res/drawable/barcode_scanner.xml" value="0.2125" />
+        <entry key="..\:/OfficeWork/Test/MorScanner/app/src/main/res/layout-sw600dp/activity_scanner.xml" value="0.2" />
+        <entry key="..\:/OfficeWork/Test/MorScanner/app/src/main/res/layout/activity_order_detail_screen.xml" value="0.19635416666666666" />
+        <entry key="..\:/OfficeWork/Test/MorScanner/app/src/main/res/layout/activity_scan_camera.xml" value="0.19635416666666666" />
+        <entry key="..\:/OfficeWork/Test/MorScanner/app/src/main/res/layout/activity_scanner.xml" value="0.25" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/drawable/bg_main.xml" value="0.2125" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/drawable/custom_progress_background.xml" value="0.2125" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/drawable/ic_baseline_add_circle_outline_24.xml" value="0.2125" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/drawable/ic_baseline_arrow_back_24.xml" value="0.2125" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/drawable/ic_baseline_arrow_drop_down_24.xml" value="0.2125" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.19814814814814816" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.2125" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout-land/list_order_summery.xml" value="0.3072916666666667" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout-sw600dp/activity_dashboard.xml" value="0.13" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.22" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.16" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout-sw600dp/activity_order_detail_screen.xml" value="0.22" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout-sw600dp/activity_order_summery.xml" value="0.25" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout-sw600dp/activity_scanner.xml" value="0.2" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout-sw600dp/list_barcode.xml" value="0.18" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout-sw600dp/list_order_summery.xml" value="0.18" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/activity_dashboard.xml" value="0.2" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/activity_login.xml" value="0.2" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/activity_order_detail_screen.xml" value="0.18" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/activity_order_summery.xml" value="0.18" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/activity_scanner.xml" value="0.2" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/activity_splash.xml" value="0.19" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/dialog_select_party.xml" value="0.19635416666666666" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/dialog_withdraw.xml" value="0.2" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/dialoug_progressbar.xml" value="0.19635416666666666" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/list_barcode.xml" value="0.22" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/list_order_summery.xml" value="0.22" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/list_party.xml" value="0.19635416666666666" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/list_select_oarty.xml" value="0.19635416666666666" />
+        <entry key="..\:/OfficeWork/bharatbhai/MorScanner/app/src/main/res/layout/list_select_party.xml" value="0.19333333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
